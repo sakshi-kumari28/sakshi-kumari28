@@ -80,7 +80,7 @@ Certifications support my work — they don’t replace it.
 
 ## 📫 Connect
 
-- LinkedIn: https://www.linkedin.com/in/your-profile
+- LinkedIn: https://www.linkedin.com/in/r-sakshi-kumari
 - Email: sakshikumari0418@gmail.com
 
 ---
