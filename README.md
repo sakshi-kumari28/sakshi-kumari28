@@ -86,10 +86,3 @@ Certifications support my work — they don’t replace it.
 ---
 
 > “Security is not about tools. It’s about understanding systems well enough to know how they fail.”
-
-- LinkedIn: https://www.linkedin.com/in/your-profile
-- Email: sakshikumari0418@gmail.com
-
----
-
-> “Security is not about tools. It’s about understanding systems well enough to know how they fail.”
